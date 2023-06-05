@@ -8,7 +8,7 @@ export const Home: React.FC = (props) => {
             <img
                 src={home}
                 className="home-img"
-                alt="Home image: LE BEC Epicerie fine &amp; Arts de la table"
+                alt="LE BEC Epicerie fine &amp; Arts de la table"
             />
         </section>
     );
